@@ -1,9 +1,9 @@
-<h1> PROYECTO INTEGRADOR FINAL EQUIPO 09 </h1>
-<h2> Elemento de prueba agregado por Juanes </h2>
+<h1> PROYECTO INTEGRADOR FINAL EQUIPO 09 ✨</h1>
+<h2> Ecommerce de productos de tecnología 💻📲 </h2>
 
 
 <p>
-Nuestro website de ecommerce se enfocará el la venta y oferta de productos de tecnología , enfocados al hardware de computación, pero también con accesorios. </p>
+Nuestro website de ecommerce se enfocará en la venta y oferta de productos de tecnología , enfocados al hardware de computación, pero también con accesorios. 🐱‍🏍 </p>
 <h4> Se venderán: </h4>
 <ul>
     <li>Notebooks</li>
